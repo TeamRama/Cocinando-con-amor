@@ -24,7 +24,7 @@
 
 ## Demo 🧷
 
-[Proyecto Safari](https://safarikinds.netlify.app/)
+[Proyecto Cocinando con amor ](https://cocinandoconamorapp.netlify.app/)
 
 
 ## Este sitio ha sido construido con:
