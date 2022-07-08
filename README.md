@@ -37,7 +37,6 @@
 
 - Ramiro Nahuel Pérez
 
-## Cargar una Prenda
 
 
 
